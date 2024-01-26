@@ -14,7 +14,10 @@ About Me✌️
 
 📫 Contact
 
-For a quick response, DM me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stha_anissha)  or LinkedIn.
+For a quick response, DM me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stha_anissha)  or www.linkedin.com/in/
+anisha-shrestha-32281125b
+
+
 
 
 # 📊 GitHub Stats:
