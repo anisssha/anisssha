@@ -1,14 +1,25 @@
-### Hi there 👋
+Hey, I'm Anisha 👋🏽
+
+I'm a 21-year-old developer based in Nepal, and I'm passionate about  full-stack developer experiences.
 
 About Me✌️
-- 🔭 I’m currently working on 
+- 🔭 I’m currently a student.
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ..
+
+📦 Toolbox
+Frontend Development: React javascript  Tailwind Material-UI 
+
+Version Control: Git GitHub
+
+Backend Development:  Firebase
+
+Testing: Postman 
+
+📫 Contact
+For a quick response, DM me on Instagram or LinkedIn.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stha_anissha) 
 
