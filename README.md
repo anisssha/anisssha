@@ -7,14 +7,57 @@ About Me✌️
 - 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
 
-📦 Toolbox
+  <div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  <!--
+    <img width="350" src=" https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Banner Image"/> 
+  -->
+
+  <img width="200" src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" alt="Banner Image"/>
+
+  <br/>
+
+  [![](https://visitcount.itsvg.in/api?id=pray3m&icon=5&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nodejs,express,nest,mongodb,nextjs,git,prisma,docker&theme=dark" alt="tech stack" />
 
 
 📫 Contact
 
 For a quick response, DM me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stha_anissha)  
+
+<!-- Snake Contrib Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuluW8071/LuluW8071/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuluW8071/luluw8071/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+
+
+
+
+<p align="right">
+  </br>
+  <img align = "right" src="follow.gif" height="100%" width="35%" style="vertical-align: top;">
+</p>
+
+<div align="left">
+  
+### :star2: Socials :rocket:
+[<img width="35px" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/shashin-mhrzn/)
+[<img width="35px" src="https://go-skill-icons.vercel.app/api/icons?i=kaggle"/>](https://www.kaggle.com/luluw8071)
+[<img width="35px" src="https://skillicons.dev/icons?i=discord"/>](https://discordapp.com/users/600529917977034753)
+[<img width="35px" src="https://go-skill-icons.vercel.app/api/icons?i=x"/>](https://x.com/Luluw_Mhrzn)
+[<img width="35px" src="https://skillicons.dev/icons?i=gmail"/>](mailto:shashinmaharjan@gmail.com)
+
+</div>
 
 
 # 📊 GitHub Stats:
