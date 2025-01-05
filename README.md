@@ -1,6 +1,6 @@
 Hey, I'm Anisha 👋🏽
 
-I'm a 21-year-old developer based in Nepal, and I'm passionate about  full-stack developer experiences.
+I'm a developer based in Nepal, and I'm passionate about  full-stack developer experiences.
 
 About Me✌️
 - 🔭 I’m currently a student.
