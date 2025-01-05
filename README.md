@@ -24,7 +24,7 @@ About Me✌️
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nodejs,express,nest,mongodb,nextjs,git,prisma,docker&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nodejs,express,mongodb,nextjs,git,prisma,docker&theme=dark" alt="tech stack" />
 
 
 📫 Contact
@@ -51,11 +51,9 @@ For a quick response, DM me on [![Instagram](https://img.shields.io/badge/Instag
 <div align="left">
   
 ### :star2: Socials :rocket:
-[<img width="35px" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/shashin-mhrzn/)
-[<img width="35px" src="https://go-skill-icons.vercel.app/api/icons?i=kaggle"/>](https://www.kaggle.com/luluw8071)
-[<img width="35px" src="https://skillicons.dev/icons?i=discord"/>](https://discordapp.com/users/600529917977034753)
-[<img width="35px" src="https://go-skill-icons.vercel.app/api/icons?i=x"/>](https://x.com/Luluw_Mhrzn)
-[<img width="35px" src="https://skillicons.dev/icons?i=gmail"/>](mailto:shashinmaharjan@gmail.com)
+[<img width="35px" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/anisha-shrestha-32281125b/)
+[<img width="35px" src="https://go-skill-icons.vercel.app/api/icons?i=x"/>](https://x.com/@anisssha12)
+[<img width="35px" src="https://skillicons.dev/icons?i=gmail"/>](mailto:stha.anisha16@gmail.com)
 
 </div>
 
